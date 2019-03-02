@@ -1,0 +1,15 @@
+.item {
+  width: 50%;
+  margin-left: 0.25vw;
+  margin-right: 0.25vw;
+}
+
+.navbar {
+  padding-left: 1vw;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  padding-right: 1vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
